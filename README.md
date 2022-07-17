@@ -1,6 +1,10 @@
-<p align="center">
-  Using nestjs
-</p>
+## NestJs Sample Project
 
-[circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
-[circleci-url]: https://circleci.com/gh/nestjs/nest
+```mermaid
+flowchart TD
+  A[Learning flowchart in readme] --> B{Are you ready?};
+  B -- Yes --> C[use mermaid];
+  B -- No --> D[No issues!];
+  C ----> E[Bye bye!];
+  D ----> E[Bye bye!];
+```
